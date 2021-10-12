@@ -1,13 +1,19 @@
-# Landing Page Project
+# landing page project #
 
-## Table of Contents
+## project description  ##
 
-* [Instructions](#instructions)
+* This project is a simple landing page with a Navigation Bar and several paragraphs 
+ 
+## development tools ##
 
-## Instructions
+* I did this project using javascript mainly where I created elements and controls on the page in a dynamic way, also I used html & css3 a little bit.
+* I programmed this project using visual studio
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## installation guide  ##
 
-To get started, open `js/app.js` and start building out the app's functionality
+* all you have to do after downloading the project, open index.html file. 
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Instructions ##
+
+* you can scroll using mouse to the the rest of the page.
+* to go directly throught the section you need, you just can click on the section name in the navigation bar.
